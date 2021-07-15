@@ -8,4 +8,5 @@
 cocktails = Cocktail.create([
     {
         name: "Manhattan",
+        desc: "A classic all booze cocktail made primarily of whiskey. Originated as it's name suggests in Manhattan"
 }])
