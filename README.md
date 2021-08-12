@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi there! This is the API for Cocktail Book. You can find the front end here: https://github.com/bellaappel/cocktailfrontendpt2.
 
-Things you may want to cover:
+To start fork and clone this repository and navigate into it once downloaded.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run rails s to start the server! Then go to the front end and follow instructions there!
+Happy mixing
